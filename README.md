@@ -22,7 +22,6 @@
 <li>apt update && apt upgrade -y</li>
 <li>git clone https://github.com/matrix-45-tecni/TecniUrl</li>
 <li>cd TecniUrl</li>
-<li>bash install-requirements.sh</li>
 <li>bash TecniUrl.sh</li>
 </ul>
 <hr>
